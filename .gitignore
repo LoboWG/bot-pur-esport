@@ -20,6 +20,7 @@ parts/
 sdist/
 var/
 wheels/
+pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -50,6 +51,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+
+# Dotenv files
+.env.*
 
 # Translations
 *.mo
@@ -172,3 +176,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Secrets - TRÈS IMPORTANT
+config.json # Si vous y mettez votre token
+secrets.py # Si vous y mettez votre token
+*.token # Tous les fichiers .token
+token.txt
+```

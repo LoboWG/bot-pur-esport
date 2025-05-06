@@ -1,0 +1,40 @@
+{
+    "618191901136388206": {
+        "nom_joueur": "GVE LoboW",
+        "poste_principal": "MDD",
+        "poste_secondaire": "MOC",
+        "disponibilites": "Lundi, Madi, MErcredi , Jeudi",
+        "ancien_club": "Vendin Esport",
+        "experience": "Je joue depuis plus de 10 ans en club, sur les compétitions comme VPG France, Santa France et Belgique, EPL et d'autre moins connu",
+        "discord_id": 618191901136388206,
+        "discord_name": "gatheglobow",
+        "discord_display_name": "Pur_LoboW",
+        "avatar_url": "https://cdn.discordapp.com/avatars/618191901136388206/d2de663e26410630b349b87464d3b598.png?size=1024"
+    },
+    "742664393422012528": {
+        "nom_joueur": "Pur_ErikL",
+        "poste_principal": "MG",
+        "poste_secondaire": "MD",
+        "disponibilites": "Lundi, Mardi, Mercredi, Jeudi",
+        "ancien_club": "Vendin Esport",
+        "competitions_jouees": "VPGF, VPGE, SMGF, SMGB, SMGM, EPL, VFT, IFC",
+        "experience": "Top player",
+        "discord_id": 742664393422012528,
+        "discord_name": "eriklambrechts4015",
+        "discord_display_name": "Erik Lambrechts",
+        "avatar_url": "https://cdn.discordapp.com/avatars/742664393422012528/7818df70118f3419a3884f5a63de23ff.png?size=1024"
+    },
+    "559431732026146827": {
+        "nom_joueur": "I Bvrcxla I",
+        "poste_principal": "MDC",
+        "poste_secondaire": "MOC",
+        "disponibilites": "Lundi, Mardi, Mercredi",
+        "ancien_club": "PFC Fearless",
+        "competitions_jouees": "VPGF, VPGB",
+        "experience": "Trop beau",
+        "discord_id": 559431732026146827,
+        "discord_name": "vskyzer",
+        "discord_display_name": "I vSkyZer I",
+        "avatar_url": "https://cdn.discordapp.com/avatars/559431732026146827/9a1740181523724e7aeb8b92b9c301bb.png?size=1024"
+    }
+}
